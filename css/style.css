@@ -52,9 +52,18 @@ footer{
   color: #333;
 }
 
+.deck img {
+  width: 100px;
+  height: auto;
+}
+
 .card {
   border: 1px solid #333;
   border-radius: 5px;
   width: 100px;
   height: 200px;
+}
+
+.card-back{
+  background-image: url('../images/back.png');
 }
