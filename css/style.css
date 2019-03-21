@@ -61,9 +61,16 @@ footer{
   border: 1px solid #333;
   border-radius: 5px;
   width: 100px;
-  height: 200px;
+  height: 150px;
+  display: inline-block;
+  margin-right: 5px;
 }
 
 .card-back{
   background-image: url('../images/back.png');
+  background-size: 100px 150px;
+  height: 150px;
+  width: 100px;
+  display: inline-block;
+  margin-right: 5px;
 }
